@@ -10,4 +10,4 @@ Each write-up documents my approach, analysis, and solution process for learning
 #### Forensics
 
 - **Pursue The Track**  
-  📄 [Pursue The Track.pdf](./HTB/Forensics/Pursue%20The%20Track.pdf)
+  📄 [Pursue The Track.pdf](./Pursue%20The%20Track.pdf)
